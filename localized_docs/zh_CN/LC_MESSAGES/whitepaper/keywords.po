@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VNET Michael <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-06-15 21:54+0800\n"
+"PO-Revision-Date: 2019-01-11 05:18+0000\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../whitepaper/keywords.rst:2
+msgid "Keywords"
+msgstr "关键词"
+
+#: ../../whitepaper/keywords.rst:4
+msgid "Distributed Network"
+msgstr "分布式网络"
+
+#: ../../whitepaper/keywords.rst:5
+msgid "Infrastructure"
+msgstr "基础设施"
+
+#: ../../whitepaper/keywords.rst:6
+msgid "Communication Protocol"
+msgstr "通信协议"
+
+#: ../../whitepaper/keywords.rst:7
+msgid "Freedom of Communication"
+msgstr "通信自由"
+
+#: ../../whitepaper/keywords.rst:8
+msgid "Proxy"
+msgstr "代理服务"
+
+#: ../../whitepaper/keywords.rst:9
+msgid "CDN"
+msgstr "CDN"
+
+#: ../../whitepaper/keywords.rst:10
+msgid "Idle Bandwidth Mining"
+msgstr "闲置带宽挖矿"
+
+#: ../../whitepaper/keywords.rst:11
+msgid "Privacy Protection"
+msgstr "隐私保护"
+
+#: ../../whitepaper/keywords.rst:12
+msgid "Security"
+msgstr "网络安全"

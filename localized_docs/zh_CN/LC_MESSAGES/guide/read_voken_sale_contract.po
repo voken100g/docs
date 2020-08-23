@@ -1,0 +1,532 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Jill Henry <vnjillhenry@gmail.com>, 2019
+# VNET Michael <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-02 17:00+0800\n"
+"PO-Revision-Date: 2019-04-26 08:27+0000\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../guide/read_voken_sale_contract.rst:4
+msgid "How to read the Voken Public-Sale Contract?"
+msgstr "如何查看 Voken 公开销售合约数据？"
+
+#: ../../guide/read_voken_sale_contract.rst:6
+msgid ""
+"The screenshots and data in this page are from the Ethereum kovan test "
+"network and they are for demonstration purposes only."
+msgstr "本页中的截图和数据来源于以太坊 kovan 测试网络，目的仅为演示说明。"
+
+#: ../../guide/read_voken_sale_contract.rst:9
+msgid ""
+"For real-time business data reading please visit: `Read Contract on "
+"etherscan.io`_"
+msgstr "实时业务数据查询请至： `Read Contract on etherscan.io`_"
+
+#: ../../guide/read_voken_sale_contract.rst:16
+msgid "Status and data"
+msgstr "状态和数据"
+
+#: ../../guide/read_voken_sale_contract.rst:20
+msgid "Main status - ``1. status``"
+msgstr "主要状态 - ``1. status``"
+
+#: ../../guide/read_voken_sale_contract.rst:27
+#: ../../guide/read_voken_sale_contract.rst:117
+msgid "Let's focus on the values:"
+msgstr "让我们聚焦于这些数值："
+
+#: ../../guide/read_voken_sale_contract.rst:48
+msgid "auditEtherPrice"
+msgstr "auditEtherPrice"
+
+#: ../../guide/read_voken_sale_contract.rst:46
+msgid "Current Audit ETH Price, in USD, with 6 decimals."
+msgstr "当前审计 ETH 价格，以美元计价，后 6 位为小数位。"
+
+#: ../../guide/read_voken_sale_contract.rst:48
+msgid ""
+"In this case, ``170000000`` means you can use `1 ETH` as **$ 170.000000 "
+"USD**, for now."
+msgstr "在这个例子中， ``170000000`` 代表您现在可以将 `1 ETH` 当做 **$ 170.000000 USD** 美元来使用。"
+
+#: ../../guide/read_voken_sale_contract.rst:53
+msgid "stage"
+msgstr "stage"
+
+#: ../../guide/read_voken_sale_contract.rst:51
+msgid "Stage number."
+msgstr "阶段序号。"
+
+#: ../../guide/read_voken_sale_contract.rst:53
+msgid "``81`` means: It's in **Stage #81**."
+msgstr "``81`` 代表：第 **#81** 个阶段。"
+
+#: ../../guide/read_voken_sale_contract.rst:58
+msgid "season"
+msgstr "season"
+
+#: ../../guide/read_voken_sale_contract.rst:56
+msgid "Season number."
+msgstr "赛季序号。"
+
+#: ../../guide/read_voken_sale_contract.rst:58
+msgid "``1`` means: It's in **Season #1**."
+msgstr "``1`` 代表：第 **#1** 个赛季。"
+
+#: ../../guide/read_voken_sale_contract.rst:63
+#: ../../guide/read_voken_sale_contract.rst:204
+msgid "vokenUsdPrice"
+msgstr "vokenUsdPrice"
+
+#: ../../guide/read_voken_sale_contract.rst:61
+msgid "Current Voken price, in USD, with 6 decimals."
+msgstr "当前 Voken 价格，以美元计价，后 6 位为小数位。"
+
+#: ../../guide/read_voken_sale_contract.rst:63
+msgid "``1810`` means: Current Voken price is **$ 0.001810 USD** ."
+msgstr "``1810`` 代表： 当前 Voken 价格为 **$ 0.001810 美元** 。"
+
+#: ../../guide/read_voken_sale_contract.rst:70
+msgid "currentTopSalesRatio"
+msgstr "currentTopSalesRatio"
+
+#: ../../guide/read_voken_sale_contract.rst:66
+msgid "Current Top-Sales rewards ratio, with 8 decimals."
+msgstr "当前赛季排名奖比例，后 8 位为小数位。"
+
+#: ../../guide/read_voken_sale_contract.rst:68
+msgid ""
+"``15067500`` is **0.15067500**, means **15.067500%** of the last transaction"
+" ETH amount will be stored in the **Top-Sales Rewards Pool**. It is "
+"calculated by `Stage number`, if the Public-Sale goes into next stage, ratio"
+" increases."
+msgstr ""
+"``15067500`` 表示 **0.15067500** ，即上一笔交易的 ETH 中总数的 **15.067500%** 将储存至 "
+"**赛季排名奖励池** 。这是由 `阶段序号` 计算而来，当公售进入下一个阶段时，比例将上涨。"
+
+#: ../../guide/read_voken_sale_contract.rst:75
+msgid "txs"
+msgstr "txs"
+
+#: ../../guide/read_voken_sale_contract.rst:73
+msgid "Transactions amount in this Voken Public-Sale."
+msgstr "Voken 公开发售过程中交易的总笔数。"
+
+#: ../../guide/read_voken_sale_contract.rst:75
+msgid ""
+"``4`` means: There are **4 transactions** since the Voken Public-Sale "
+"started."
+msgstr "``4`` 代表：自从 Voken 公开发售开始，一共产生了 **4 笔交易** 。"
+
+#: ../../guide/read_voken_sale_contract.rst:80
+msgid "vokenTxs"
+msgstr "vokenTxs"
+
+#: ../../guide/read_voken_sale_contract.rst:78
+msgid "Voken transactions amount."
+msgstr "Voken 转账次数。"
+
+#: ../../guide/read_voken_sale_contract.rst:80
+msgid ""
+"``82`` means: There are **82 transactions** of Vokens finished already."
+msgstr "``82`` 代表：已经有 **82 笔** Vokens 转账已经完成。"
+
+#: ../../guide/read_voken_sale_contract.rst:85
+msgid "vokenBonusTxs"
+msgstr "vokenBonusTxs"
+
+#: ../../guide/read_voken_sale_contract.rst:83
+msgid "Voken bonus transactions amount."
+msgstr "Voken 奖励转账的总次数。"
+
+#: ../../guide/read_voken_sale_contract.rst:85
+msgid ""
+"``3`` means: There are **3 transaction** of Voken bonus finished already."
+msgstr "``3`` 代表：Voken 的奖励转账共完成了 **3 笔** 。"
+
+#: ../../guide/read_voken_sale_contract.rst:90
+msgid "vokenWhitelistTxs"
+msgstr "vokenWhitelistTxs"
+
+#: ../../guide/read_voken_sale_contract.rst:88
+msgid "Voken whitelist transactions amount."
+msgstr "Voken 白名单转账次数。"
+
+#: ../../guide/read_voken_sale_contract.rst:90
+msgid ""
+"``4`` means: There are **4 transactions** of Voken whitelist finished "
+"already."
+msgstr "``4`` 代表：Voken 白名单转账共 **4 笔** 。"
+
+#: ../../guide/read_voken_sale_contract.rst:95
+#: ../../guide/read_voken_sale_contract.rst:329
+msgid "vokenIssued"
+msgstr "vokenIssued"
+
+#: ../../guide/read_voken_sale_contract.rst:93
+msgid "Voken issued amount transferred already, with 6 decimals."
+msgstr "已经发行的 Voken 总数，后 6 位为小数位。"
+
+#: ../../guide/read_voken_sale_contract.rst:95
+msgid "``8193922651933`` is **8,193,922.651933 Vokens**."
+msgstr "``8193922651933`` 代表： **8,193,922.651933 Vokens** 。"
+
+#: ../../guide/read_voken_sale_contract.rst:100
+#: ../../guide/read_voken_sale_contract.rst:334
+msgid "vokenBonus"
+msgstr "vokenBonus"
+
+#: ../../guide/read_voken_sale_contract.rst:98
+msgid "Voken bonus amount transferred already."
+msgstr "Voken 奖励金发放的总数。"
+
+#: ../../guide/read_voken_sale_contract.rst:100
+msgid "``810000000000`` is **810,000.000000 Vokens**."
+msgstr "``810000000000`` 代表： **810,000.000000 Vokens** 。"
+
+#: ../../guide/read_voken_sale_contract.rst:107
+msgid "vokenWhitelist"
+msgstr "vokenWhitelist"
+
+#: ../../guide/read_voken_sale_contract.rst:103
+msgid "Voken whitelist amount transferred already."
+msgstr "Voken 白名单转账总数。"
+
+#: ../../guide/read_voken_sale_contract.rst:105
+msgid "``9003922651933`` is **9,003,922.651933 Vokens**."
+msgstr "``9003922651933`` 代表： **9,003,922.651933 Vokens** 。"
+
+#: ../../guide/read_voken_sale_contract.rst:110
+msgid "Sum of the main data - ``6. sum``"
+msgstr "主要的统计数据 - ``6. sum``"
+
+#: ../../guide/read_voken_sale_contract.rst:129
+#: ../../guide/read_voken_sale_contract.rst:269
+msgid ""
+"All the values is in wei (minimum unit of ETH, `1 wei = 0.000000000000000001"
+" ETH`), there are 18 decimals."
+msgstr ""
+"所有的数值的单位都是“wei”（以太坊系统中最小的单位， `1 wei = 0.000000000000000001 ETH`），包含 18 位小数。"
+
+#: ../../guide/read_voken_sale_contract.rst:136
+#: ../../guide/read_voken_sale_contract.rst:276
+msgid "weiSold"
+msgstr "weiSold"
+
+#: ../../guide/read_voken_sale_contract.rst:134
+msgid "Amount of Public-Sales revenue."
+msgstr "公开发售的总销售收入。"
+
+#: ../../guide/read_voken_sale_contract.rst:136
+msgid "``67705882352941176472`` is **67.705882352941176472 ETH**."
+msgstr "``67705882352941176472`` 代表： **67.705882352941176472 ETH** 。"
+
+#: ../../guide/read_voken_sale_contract.rst:141
+#: ../../guide/read_voken_sale_contract.rst:351
+msgid "weiReferralRewarded"
+msgstr "weiReferralRewarded"
+
+#: ../../guide/read_voken_sale_contract.rst:139
+msgid "Amount of Referral-Reward already sent."
+msgstr "已成功发放的推荐奖励金额总数。"
+
+#: ../../guide/read_voken_sale_contract.rst:141
+msgid "``19708588235294117625`` is **19.708588235294117625 ETH**."
+msgstr "``19708588235294117625`` 代表： **19.708588235294117625 ETH** 。"
+
+#: ../../guide/read_voken_sale_contract.rst:146
+#: ../../guide/read_voken_sale_contract.rst:281
+msgid "weiTopSales"
+msgstr "weiTopSales"
+
+#: ../../guide/read_voken_sale_contract.rst:144
+msgid "Amount of Top-Sales Reward already counted."
+msgstr "排位赛奖励已登记金额总数。"
+
+#: ../../guide/read_voken_sale_contract.rst:146
+#: ../../guide/read_voken_sale_contract.rst:281
+#: ../../guide/read_voken_sale_contract.rst:291
+msgid "``10180962911764705838`` is **10.180962911764705838 ETH**."
+msgstr "``10180962911764705838`` 代表： **10.180962911764705838 ETH** 。"
+
+#: ../../guide/read_voken_sale_contract.rst:151
+msgid "weiTeam"
+msgstr "weiTeam"
+
+#: ../../guide/read_voken_sale_contract.rst:149
+msgid "Vision.Network project team received."
+msgstr "Vision.Network 项目团队收入。"
+
+#: ../../guide/read_voken_sale_contract.rst:151
+msgid "``33820000000000000000`` is **33.82 ETH**."
+msgstr "``33820000000000000000`` 代表： **33.82 ETH** 。"
+
+#: ../../guide/read_voken_sale_contract.rst:156
+msgid "weiPending"
+msgstr "weiPending"
+
+#: ../../guide/read_voken_sale_contract.rst:154
+msgid "Unallocated ETH rewards pending pool."
+msgstr "尚待分配的 ETH 奖励池。"
+
+#: ../../guide/read_voken_sale_contract.rst:156
+#: ../../guide/read_voken_sale_contract.rst:167
+msgid "``3988470588235294117`` is **3.988470588235294117 ETH**."
+msgstr "``3988470588235294117`` 代表： **3.988470588235294117 ETH** 。"
+
+#: ../../guide/read_voken_sale_contract.rst:161
+msgid "weiPendingTransfered"
+msgstr "weiPendingTransfered"
+
+#: ../../guide/read_voken_sale_contract.rst:159
+msgid "Unallocated ETH rewards already transferred."
+msgstr "待分配 ETH 奖励的已转账数量。"
+
+#: ../../guide/read_voken_sale_contract.rst:161
+#: ../../guide/read_voken_sale_contract.rst:286
+msgid "``0`` is **0 ETH**."
+msgstr "``0`` 代表： **0 ETH** 。"
+
+#: ../../guide/read_voken_sale_contract.rst:169
+msgid "weiPendingRemain"
+msgstr "weiPendingRemain"
+
+#: ../../guide/read_voken_sale_contract.rst:164
+msgid ""
+"Unallocated ETH rewards pending pool remain. Should be always `= weiPending "
+"- weiPendingTransfered`."
+msgstr "剩余的待分配 ETH 奖励池。该数值应 `= weiPending - weiPendingTransfered` 。"
+
+#: ../../guide/read_voken_sale_contract.rst:172
+msgid "Status of a specific stage - ``3. stageStatus``"
+msgstr "特定阶段的状态 - ``3. stageStatus``"
+
+#: ../../guide/read_voken_sale_contract.rst:179
+msgid ""
+"Enter a specific stage number, and press `Query`, you will get a response:"
+msgstr "输入一个特定阶段的序号，并点击 `Query` ，您就可以查询到相应的数据："
+
+#: ../../guide/read_voken_sale_contract.rst:187
+msgid "For example, `Stage #81`:"
+msgstr "例如， `第 #81 阶段` ："
+
+#: ../../guide/read_voken_sale_contract.rst:202
+msgid "Voken price of the stage, in USD, with 6 decimals."
+msgstr "该阶段的 Voken 价格，以美元计价，后 6 位为小数位。"
+
+#: ../../guide/read_voken_sale_contract.rst:204
+msgid "``1810`` is **$ 0.001810 USD**."
+msgstr "``1810`` 代表： **$ 0.001810 美元** 。"
+
+#: ../../guide/read_voken_sale_contract.rst:209
+msgid "vokenCap"
+msgstr "vokenCap"
+
+#: ../../guide/read_voken_sale_contract.rst:207
+msgid "Voken amount cap of the stage, with 6 decimals."
+msgstr "该阶段的 Voken 上限，后 6 位为小数位。"
+
+#: ../../guide/read_voken_sale_contract.rst:209
+msgid "``100000000000`` is **100,000.000000 Vokens**."
+msgstr "``100000000000`` 代表： **100,000.000000 Vokens** 。"
+
+#: ../../guide/read_voken_sale_contract.rst:214
+msgid "vokenOnSale"
+msgstr "vokenOnSale"
+
+#: ../../guide/read_voken_sale_contract.rst:212
+msgid "Voken on-sale of the stage, with 6 decimals."
+msgstr "该阶段中在售的 Voken 数量，后 6 位为小数位。"
+
+#: ../../guide/read_voken_sale_contract.rst:214
+msgid "``6077348067`` is **6,077.348067 Vokens**."
+msgstr "``6077348067`` 代表： **6,077.348067 Vokens** 。"
+
+#: ../../guide/read_voken_sale_contract.rst:219
+msgid "vokenSold"
+msgstr "vokenSold"
+
+#: ../../guide/read_voken_sale_contract.rst:217
+msgid "Voken sold of the stage, with 6 decimals."
+msgstr "该阶段已售出的 Voken 数量，后 6 位为小数位。"
+
+#: ../../guide/read_voken_sale_contract.rst:219
+msgid "``93922651933`` is **93,922.651933 Vokens**."
+msgstr "``93922651933`` 代表： **93,922.651933 Vokens** 。"
+
+#: ../../guide/read_voken_sale_contract.rst:224
+msgid "usdCap"
+msgstr "usdCap"
+
+#: ../../guide/read_voken_sale_contract.rst:222
+msgid "USD amount cap of the stage, with 6 decimals."
+msgstr "该阶段美元限售总量，后 6 位为小数位。"
+
+#: ../../guide/read_voken_sale_contract.rst:224
+msgid "``181000000`` is **$ 181.000000 USD**."
+msgstr "``181000000`` 代表： **$ 181.000000 美元** 。"
+
+#: ../../guide/read_voken_sale_contract.rst:229
+msgid "usdOnSale"
+msgstr "usdOnSale"
+
+#: ../../guide/read_voken_sale_contract.rst:227
+msgid "USD on-sale of the stage, with 6 decimals."
+msgstr "预计在售的美元收入，后 6 位为小数位。"
+
+#: ../../guide/read_voken_sale_contract.rst:229
+msgid "``11000000`` is **$ 11.000000 USD**."
+msgstr "``11000000`` 代表： **$ 11.000000 美元** 。"
+
+#: ../../guide/read_voken_sale_contract.rst:234
+msgid "usdSold"
+msgstr "usdSold"
+
+#: ../../guide/read_voken_sale_contract.rst:232
+msgid "USD sold of the stage, with 6 decimals."
+msgstr "该阶段已收入的美元， 后 6 位为小数位。"
+
+#: ../../guide/read_voken_sale_contract.rst:234
+msgid "``170000000`` is **$ 170.000000 USD**."
+msgstr "``170000000`` 代表： **$ 170.000000 美元** 。"
+
+#: ../../guide/read_voken_sale_contract.rst:241
+msgid "weiTopSalesRatio"
+msgstr "weiTopSalesRatio"
+
+#: ../../guide/read_voken_sale_contract.rst:237
+msgid "Top-Sales rewards ratio of the stage, with 8 decimals."
+msgstr "该阶段排位赛奖励的比例，后 8 位为小数位。"
+
+#: ../../guide/read_voken_sale_contract.rst:239
+msgid "``15067500`` is **0.15067500**, means **15.067500%**."
+msgstr "``15067500`` 代表： **0.15067500** ，即 **15.067500%** 。"
+
+#: ../../guide/read_voken_sale_contract.rst:244
+msgid "Top-Sales rewards of a specific season - ``11. seasonTopSalesRewards``"
+msgstr "特定赛季的排位赛奖励查询 - ``11. seasonTopSalesRewards``"
+
+#: ../../guide/read_voken_sale_contract.rst:251
+msgid ""
+"Enter a specific season number, and press `Query`, you will get a response:"
+msgstr "输入特定赛季的序号，并点击 `Query` ，您就可以查询到相应的数据："
+
+#: ../../guide/read_voken_sale_contract.rst:259
+msgid "For example, `Season #1`:"
+msgstr "例如， `第 #1 赛季` ："
+
+#: ../../guide/read_voken_sale_contract.rst:274
+msgid "Amount of the sales revenue, in the season."
+msgstr "本赛季销售收入的总数。"
+
+#: ../../guide/read_voken_sale_contract.rst:276
+msgid "``67705882352941176432`` is **67.705882352941176432 ETH**."
+msgstr "``67705882352941176432`` 代表： **67.705882352941176432 ETH** 。"
+
+#: ../../guide/read_voken_sale_contract.rst:279
+msgid "Top-Sales Reward already counted, in the season."
+msgstr "本赛季已累积的排位赛奖励金。"
+
+#: ../../guide/read_voken_sale_contract.rst:286
+msgid "weiTopSalesTransfered"
+msgstr "weiTopSalesTransfered"
+
+#: ../../guide/read_voken_sale_contract.rst:284
+msgid "Top-Sales Reward already transferred, in the season."
+msgstr "本赛季已经成功发放的排位赛奖励金。"
+
+#: ../../guide/read_voken_sale_contract.rst:293
+msgid "weiTopSalesRemain"
+msgstr "weiTopSalesRemain"
+
+#: ../../guide/read_voken_sale_contract.rst:289
+msgid "Top-Sales Reward remain, in the season."
+msgstr "本赛季剩余的排位赛奖励金。"
+
+#: ../../guide/read_voken_sale_contract.rst:296
+msgid "Query data which may relate to you"
+msgstr "查询可能与您相关的数据"
+
+#: ../../guide/read_voken_sale_contract.rst:300
+msgid "Query an account ``13. accountQuery``"
+msgstr "账户查询 ``13. accountQuery``"
+
+#: ../../guide/read_voken_sale_contract.rst:307
+msgid ""
+"Enter a specific ETH wallet address, and press `Query`, you will get a "
+"response:"
+msgstr "输入一个特定的以太坊钱包地址，并点击 `Query` ，您就可以查询到相应的数据："
+
+#: ../../guide/read_voken_sale_contract.rst:315
+msgid ""
+"For example, query an address of `0x02eEe50...` in the entire voken public-"
+"sale:"
+msgstr ""
+
+#: ../../guide/read_voken_sale_contract.rst:327
+msgid "Voken issued amount, with 6 decimals."
+msgstr "Voken 兑换总量，后 6 位为小数位。"
+
+#: ../../guide/read_voken_sale_contract.rst:329
+msgid "``913930751207`` is **913,930.751207 Vokens**."
+msgstr "``913930751207`` 代表： **913,930.751207 Vokens** 。"
+
+#: ../../guide/read_voken_sale_contract.rst:332
+msgid "Voken bonus amount, with 6 decimals."
+msgstr "Voken 额外奖励总数，后 6 位为小数位。"
+
+#: ../../guide/read_voken_sale_contract.rst:334
+msgid "``91393075120`` is **91,393.075120 Vokens**."
+msgstr "``91393075120`` 代表： **91,393.075120 Vokens** 。"
+
+#: ../../guide/read_voken_sale_contract.rst:339
+msgid "vokenWhitelisted"
+msgstr "vokenWhitelisted"
+
+#: ../../guide/read_voken_sale_contract.rst:337
+msgid "Voken whitelist amount, with 6 decimals."
+msgstr "Voken 白名单奖励总数，后 6 位为小数位。"
+
+#: ../../guide/read_voken_sale_contract.rst:339
+msgid "``1005323826327`` is **1,005,323.826327 Vokens**."
+msgstr "``1005323826327`` 代表： **1,005,323.826327 Vokens** 。"
+
+#: ../../guide/read_voken_sale_contract.rst:344
+msgid "weiPurchased"
+msgstr "weiPurchased"
+
+#: ../../guide/read_voken_sale_contract.rst:342
+msgid "Amount of ETH purchased, with 18 decimals."
+msgstr "兑换所使用的 ETH 总数，后 18 位为小数位。"
+
+#: ../../guide/read_voken_sale_contract.rst:344
+msgid "``10000000000000000000`` is **10 ETH**."
+msgstr "``10000000000000000000`` 代表： **10 ETH** 。"
+
+#: ../../guide/read_voken_sale_contract.rst:347
+msgid "Amount of **Referral-Reward** received, with 18 decimals."
+msgstr "收到的推荐奖励总数，后 18 位为小数位。"
+
+#: ../../guide/read_voken_sale_contract.rst:349
+msgid "``21296117647058823526`` is **21.296117647058823526 ETH**."
+msgstr "``21296117647058823526`` 代表： **21.296117647058823526 ETH** 。"
+
+#: ../../guide/read_voken_sale_contract.rst:355
+msgid "TBC."
+msgstr "未完待续。"

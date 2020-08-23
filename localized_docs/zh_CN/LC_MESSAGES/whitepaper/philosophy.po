@@ -1,0 +1,158 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VISION official <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-27 11:20+0800\n"
+"PO-Revision-Date: 2019-01-11 05:19+0000\n"
+"Last-Translator: VISION official <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../whitepaper/philosophy.rst:4
+msgid "Our Philosophy: Yearning for freedom"
+msgstr "我们的哲学：对自由的向往"
+
+#: ../../whitepaper/philosophy.rstNone
+msgid "Author"
+msgstr "作者"
+
+#: ../../whitepaper/philosophy.rst:9
+msgid "2018"
+msgstr "2018"
+
+#: ../../whitepaper/philosophy.rst:11
+msgid ""
+"Freedom, equality, openness, sharing are not just personal values and "
+"ideological preferences. These things are written in the basic protocols of "
+"the Internet and are the inevitable results of the design of early talents. "
+"A network can be as big as it is today, and there is **no central "
+"government**, **no parliament** and **political bureau**, not ideological "
+"and administrative relations at work, but a series of basic communication "
+"protocols."
+msgstr ""
+"自由、开放、平等、分享，并不仅仅是个人价值观和意识形态偏好，这些东西是被写死在互联网的基础协议中的，是早期天才们的设计产生的必然结果。一个网络能长到今天这么大，而且没有"
+" **政府** 和 **中央** ，没有 **议会** 和 **政治局** ，不是意识形态和行政关系在起作用，而是一系列基础的通讯协议。"
+
+#: ../../whitepaper/philosophy.rst:17
+msgid ""
+"An e-mail which is came from Microsoft [#Microsoft]_ can be sent to Gmail "
+"[#Gmail]_, because there are many intermediate servers that carry the "
+"delivery task. This delivery is neither a business task nor an "
+"administrative task. It does not bring direct commercial benefits. There is "
+"any administrative affiliation. The existence of this open network, just "
+"because if you want to participate in this game, you must accept these open "
+"game rules."
+msgstr ""
+"一封从微软 [#Microsoft]_ 发出的电子邮件，可以送达 Gmail [#Gmail]_ "
+"，是因为有很多中间服务器承担了传递任务，这种传递既不是商业任务，也不是行政任务，它并不带来直接的商业利益，也不存在任何行政隶属关系。这个开放网络的存在，仅仅因为你要参与这个游戏，就必须接受开放的游戏规则。"
+
+#: ../../whitepaper/philosophy.rst:24
+msgid ""
+"The giants on the Internet, such as Google [#Google]_ and Facebook "
+"[#Facebook]_, are not the beneficiaries of the open architecture of the "
+"Internet. Whether it is from Pratt & Whitney, or from the perspective of "
+"providing more business opportunities, the open and free Internet spirit "
+"will really benefit us."
+msgstr ""
+"互联网上的巨头，如 Google [#Google]_ 、Facebook [#Facebook]_ "
+"，无不是互联网开放架构的受益者。无论从普惠众生上说，还是从提供更多商业机会上说，开放、自由的互联网精神，都确实会让我们受益良多。"
+
+#: ../../whitepaper/philosophy.rst:29
+msgid ""
+"Perhaps not everyone agrees with these viewpoints. In some areas, for some "
+"reasons, ISP services are more like a large local area network. They are not"
+" as interconnected and open-minded as the original design of the Internet. "
+"As a group of technology geeks, although we can understand it, but we are "
+"more and more looking forward to enjoying an Internet infrastructure that is"
+" exactly the same as the original design, free, open, equal, and shared."
+msgstr ""
+"也许，并非所有人都认同这一观念，在一些地区，出于一些原因，网络服务更像是一个大的局域网，并不像互联网设计初衷那样互通互联、开放包容，作为一群技术极客的我们，虽然可以理解，但我们更期待能够享有一个恰如设计初衷一样的互联网基础设施，自由、开放、平等、分享。"
+
+#: ../../whitepaper/philosophy.rst:41
+msgid ""
+"Same like you, our team members also need accessibility, stable and fluent "
+"network communication services, explore the world through Google [#Google]_ "
+"and Wikipedia [#Wikipedia]_, share our work and life times with friends all "
+"over the world on Facebook [#Facebook]_ / Instagram [#Instagram]_, Using "
+"YouTube YouTube [#YouTube]_ / Twitter [#Twitter]_ to see a colorful world, "
+"you and us, can not only understand the latest technological trends, "
+"academic research, cutting-edge information, but also freely communicate, "
+"discuss and collaborate."
+msgstr ""
+"和你一样，我们的团队成员，也需要无障碍的、安全的、稳定的、流畅的网络通信服务，通过 Google [#Google]_ 和维基百科 "
+"[#Wikipedia]_ 来探索世界、在 Facebook [#Facebook]_ / Instagram [#Instagram]_ "
+"上与全球的朋友分享自己的工作和生活、用 YouTube [#YouTube]_ / Twitter [#Twitter]_ "
+"看到一个鲜活的、丰富多彩的世界，不但可以了解最新的技术动态、学术研究、前沿资讯，还能自由的交流讨论和协作。"
+
+#: ../../whitepaper/philosophy.rst:49
+msgid ""
+"The Internet belongs to all those who construct and use it. The future of "
+"the Internet should not be abducted and controlled by any centralized "
+"organization. The billions of people who use and participate in the "
+"Internet, and the experts who construct and maintain the Internet, they all "
+"should have the rights of freely browsing and speaking."
+msgstr ""
+"互联网属于所有构建和使用它的人，互联网的未来不应受任何中心化组织的绑架和控制，全球几十亿使用和参与互联网的用户，以及构建和维护互联网的专家都应该有自由浏览和自由发言的权力。"
+
+#: ../../whitepaper/philosophy.rst:54
+msgid ""
+"We are taking some actions to create a distributed, borderless, and "
+"accessible future network infrastructure through a series of technologies "
+"and standards to provide the basis for user mutual assistance services, "
+"including not only the most basic interconnection services, but also expect "
+"to build secure and shareable computing, storage and other services through "
+"either mature or innovative technology methods."
+msgstr ""
+"我们正在做出一些行动，通过一系列的技术和标准，创造一个无边界的、无障碍的更具成长性的分布式互联网基础设施来为用户互助服务提供基础，不但包括最基础的互联互通服务，还期望通过成熟的与创新的技术方法，构建分布式的、安全的内容分发、地址解析、安全防护，甚至是可共享的计算和存储等服务。"
+
+#: ../../whitepaper/philosophy.rst:60
+msgid ""
+"Of course, all of this, starting from barrier-free interconnection, expects "
+"your blessings and support, and welcomes the participation of all people "
+"with ideals to build a healthy basic ecological environment."
+msgstr "当然，这一切，从无障碍的互联互通开始，期望得到你的祝福和支持，欢迎一切有志之士的参与，共建一个健康的基础生态。"
+
+#: ../../whitepaper/philosophy.rst:67
+msgid "**Microsoft** https://www.microsoft.com/"
+msgstr "**微软** https://www.microsoft.com/"
+
+#: ../../whitepaper/philosophy.rst:68
+msgid "**Gmail** https://www.gmail.com/"
+msgstr "**Gmail** https://www.gmail.com/"
+
+#: ../../whitepaper/philosophy.rst:69
+msgid "**Google** https://www.google.com/"
+msgstr "**谷歌** https://www.google.com/"
+
+#: ../../whitepaper/philosophy.rst:70
+msgid "**Facebook** https://www.facebook.com/"
+msgstr "**脸书** https://www.facebook.com/"
+
+#: ../../whitepaper/philosophy.rst:71
+msgid "**Wikipedia** https://www.wikipedia.com/"
+msgstr "**维基百科** https://www.wikipedia.com/"
+
+#: ../../whitepaper/philosophy.rst:72
+msgid "**Instagram** https://www.instagram.com/"
+msgstr "**Instagram** https://www.instagram.com/"
+
+#: ../../whitepaper/philosophy.rst:73
+msgid "**YouTube** https://www.youtube.com/"
+msgstr "**YouTube** https://www.youtube.com/"
+
+#: ../../whitepaper/philosophy.rst:74
+msgid "**Twitter** https://twitter.com/"
+msgstr "**推特** https://twitter.com/"

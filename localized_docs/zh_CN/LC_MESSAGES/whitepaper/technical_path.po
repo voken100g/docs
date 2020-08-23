@@ -1,0 +1,531 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VNET Michael <michael@vision.network>, 2019
+# Jill Henry <vnjillhenry@gmail.com>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-23 15:53+0800\n"
+"PO-Revision-Date: 2019-01-19 08:47+0000\n"
+"Last-Translator: Jill Henry <vnjillhenry@gmail.com>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../whitepaper/technical_path.rst:2
+msgid "Technical path"
+msgstr "技术路径"
+
+#: ../../whitepaper/technical_path.rst:6
+msgid "vnP2PNET and vnNODE"
+msgstr "vnP2PNET 与 vnNODE"
+
+#: ../../whitepaper/technical_path.rst:8
+msgid "Distributed peer-to-peer networks, all over the world."
+msgstr "分布式端对端对等网络、遍布全球的用户节点。"
+
+#: ../../whitepaper/technical_path.rst:10
+msgid ""
+"vnP2PNET is the basis for the interconnection and interoperability of nodes "
+"in the entire the Vision Network."
+msgstr "vnP2PNET 是 Vision Network 全网节点互联互通、高效协作的基础。"
+
+#: ../../whitepaper/technical_path.rst:12
+msgid ""
+"The vnNODE user nodes all over the world run on the basis of a series of "
+"protocols and rules, which constitute the vnP2PNET distributed peer-to-peer "
+"network. These techniques are being used in several scenarios and systems "
+"such as BitTorrent, BitCoin and Ethereum and have been validated and "
+"basically mature."
+msgstr ""
+"遍布全球的 vnNODE用户节点在一系列协议和规则标准基础上运行，构成了 vnP2PNET 分布式端对端对等网络，这些技术在 "
+"BitTorrent、BitCoin、Ethereum 等多个场景和系统中正在使用且已得到有效验证并且已经基本成熟。"
+
+#: ../../whitepaper/technical_path.rst:19
+msgid "P2PNET:"
+msgstr "P2PNET:"
+
+#: ../../whitepaper/technical_path.rst:18
+msgid "`P2PNET - WikiPedia(English)`_"
+msgstr "`维基百科：p2pnet（英文）`_"
+
+#: ../../whitepaper/technical_path.rst:19
+msgid "`P2PNET - WikiPedia(Chinese)`_"
+msgstr "`维基百科：分散网络（中文）`_"
+
+#: ../../whitepaper/technical_path.rst:28
+msgid "BitTorrent:"
+msgstr "BitTorrent:"
+
+#: ../../whitepaper/technical_path.rst:26
+msgid "`bittorrent.com`_"
+msgstr "`bittorrent.com`_"
+
+#: ../../whitepaper/technical_path.rst:27
+msgid "`BitTorrent - WikiPedia(English)`_"
+msgstr "`维基百科：BitTorrent（英文）`_"
+
+#: ../../whitepaper/technical_path.rst:28
+msgid "`BitTorrent - WikiPedia(Chinese)`_"
+msgstr "`维基百科：BitTorrent（中文）`_"
+
+#: ../../whitepaper/technical_path.rst:39
+msgid "BitCoin:"
+msgstr "比特币："
+
+#: ../../whitepaper/technical_path.rst:36
+msgid "`bitcoin.org`_"
+msgstr "`bitcoin.org`_"
+
+#: ../../whitepaper/technical_path.rst:37
+msgid "`Bitcoin Whitepaper`_"
+msgstr "`比特币白皮书`_"
+
+#: ../../whitepaper/technical_path.rst:38
+msgid "`Bitcoin - WikiPedia(English)`_"
+msgstr "`维基百科：比特币（英文）`_"
+
+#: ../../whitepaper/technical_path.rst:39
+msgid "`Bitcoin - WikiPedia(Chinese)`_"
+msgstr "`维基百科：比特币（中文）`_"
+
+#: ../../whitepaper/technical_path.rst:51
+msgid "Ethereum:"
+msgstr "以太坊："
+
+#: ../../whitepaper/technical_path.rst:48
+msgid "`ethereum.org`_"
+msgstr "`ethereum.org`_"
+
+#: ../../whitepaper/technical_path.rst:49
+msgid "`Ethereum on Github`_"
+msgstr "`Ethereum on Github`_"
+
+#: ../../whitepaper/technical_path.rst:50
+msgid "`Ethereum - WikiPedia(English)`_"
+msgstr "`维基百科：以太坊（英文）`_"
+
+#: ../../whitepaper/technical_path.rst:51
+msgid "`Ethereum - WikiPedia(Chinese)`_"
+msgstr "`维基百科：以太坊（中文）`_"
+
+#: ../../whitepaper/technical_path.rst:61
+msgid "vnCHAIN, Blockchain"
+msgstr "vnCHAIN 区块链"
+
+#: ../../whitepaper/technical_path.rst:63
+msgid ""
+"The design and implementation of the vnCHAIN main chain will be as simple as"
+" possible to keep the minimum requirements for computing and storage "
+"resources of the node. Storage updates, clearing, and contract execution of "
+"the latest vnPAC rules will occur on the vnCHAIN main chain, while expired "
+"data will be considered redundant and automatically backed up to other "
+"symbiotic decentralized systems (such as IPFS / EOS, etc.) for queries. And "
+"of course, nodes can also choose to save the full height of blocks (the "
+"default is to save blocks and snapshots for 255 days)."
+msgstr ""
+"vnCHAIN 主链的设计和实施都将尽量简洁，以保持 vnNODE 节点对运算和存储资源的最低需求。最新 vnPAC "
+"规则的存储更新、清算结算、合约执行将发生在 vnCHAIN 主链上，而过期数据则被视为冗余，会自动备份至其它共生的去中心化系统（如 IPFS、EOS "
+"等）以供查询，当然，节点也可以选择保存完整高度的区块公账（默认保存255天的区块数据和快照）"
+
+#: ../../whitepaper/technical_path.rst:72
+msgid ""
+"vnCHAIN uses the PoT consensus mechanism and the random accounting strategy,"
+" and there is no possibility of computing competition, which further reduces"
+" the requirements on node hardware and increases scalability."
+msgstr "vnCHAIN 使用 PoT 共识与随机记账策略，不存在“算力竞赛”的可能，进一步减低了对节点硬件的要求，同时提高了扩展性。"
+
+#: ../../whitepaper/technical_path.rst:79
+msgid "Allow one-to-many bindings and untying of vnWallet and vnNODE"
+msgstr "允许 vnWallet 与 vnNODE 一对多绑定与解绑"
+
+#: ../../whitepaper/technical_path.rst:81
+msgid ""
+"Using the logical structure of the vnWallet parallel to the vnNODE, vnWallet"
+" and vnNODE use mutually independent private and public keys, and vnWallet "
+"and vnNODE can transfer freely between themselves."
+msgstr ""
+"采用 vnWallet 钱包与 vnNODE 节点平行的逻辑结构设计，vnWallet 和 vnNODE 使用相互独立的私钥与公钥，vnWallet 与"
+" vnNODE 间可以相互自由转账。"
+
+#: ../../whitepaper/technical_path.rst:85
+msgid "Allow one-to-many bindings and untying of vnWallet and vnNODE:"
+msgstr "允许 vnWallet 与 vnNODE 一对多绑定与解绑："
+
+#: ../../whitepaper/technical_path.rst:87
+msgid ""
+"Allow vnWallet and vnNODE to be associated with a simultaneous signature. "
+"After the binding, the VNET Tokens for both vnNODE cost and revenue will be "
+"automatically included in the address of the corresponding vnWallet."
+msgstr ""
+"允许 vnWallet 与 vnNODE 同时签名授权绑定关联关系，绑定后，vnNODE 花费与收入的VNET Token 都将自动计入对应 "
+"vnWallet 的 address"
+
+#: ../../whitepaper/technical_path.rst:90
+msgid ""
+"Allow vnWallet to initiate unbundling of vnNODE operations with a unilateral"
+" authorization signature. After unbinding, the cost and revenue of vnNODE "
+"are no longer associated with the past vnWallet, but only belongs to the "
+"vnNODE's own address."
+msgstr ""
+"允许由 vnWallet 单方签名授权发起解绑 vnNODE 操作，解绑后，vnNODE 的花费和收入不再和 vnWallet 关联，而只属于 "
+"vnNODE 自己的 address"
+
+#: ../../whitepaper/technical_path.rst:98
+msgid "vnSDK"
+msgstr "vnSDK"
+
+#: ../../whitepaper/technical_path.rst:100
+msgid ""
+"The vnSDK is the first end-user application built on a vnP2PNET "
+"(encapsulating the vnRPC at the same time). This development kit defines a "
+"set of standards and provides a convenient interface for the end user to "
+"take advantage of the vnCHAIN. At the same time, it gives VISION the "
+"potential to expand the scale in the future. Whether it is an official "
+"application or the participation of more partners or organizations in the "
+"application development of VISION in the future, the vnSDK will provide more"
+" convenience and will promote the entire ecosystem to be more open and "
+"colorful."
+msgstr ""
+"vnSDK 软件开发工具包是第一个建立在 vnP2PNET 网络上的终端用户应用程序（同时封装 vnRPC "
+"远程过程调用协议），这个开发包定义一系列标准并为终端用户提供方便的接口，可以利用 vnCHAIN 区块链的优势，同时赋予 VISION "
+"未来扩大业务规模的潜能。不论是官方应用，还是未来有更多伙伴或组织参与到 VISION 的应用开发中来，vnSDK "
+"都将提供更多便利并会促进整个生态系统更开放、更丰富。"
+
+#: ../../whitepaper/technical_path.rst:113
+msgid "vnVPN model and principle"
+msgstr "vnVPN 模型与原理"
+
+#: ../../whitepaper/technical_path.rst:123
+msgid "vnFREE non-state protocol"
+msgstr "vnFREE 无状态协议"
+
+#: ../../whitepaper/technical_path.rst:125
+msgid ""
+"The exclusive algorithm vnFREE stateless protocol, based on TCP, can achieve"
+" second-level switching of service nodes without waiting for software "
+"disconnection and reconnection like traditional VPN. Military-grade AES-256 "
+"encryption, and then superimposing obfuscated packets, makes it more similar"
+" to the traffic characteristics of HTTPS and it is difficult to be detected "
+"by DPI deep packet inspection."
+msgstr ""
+"独家算法的 vnFREE 无状态协议，基于 TCP，可以实现服务节点的秒级切换，无需像传统 VPN 一样等待软件断开再重新连接，军事级别的 "
+"AES-256 加密，再经过叠加混淆处理后的数据包，与 HTTPS 的流量特征更相似，从而很难被 DPI 深度包检测发现。"
+
+#: ../../whitepaper/technical_path.rst:135
+msgid "TCP:"
+msgstr "TCP:"
+
+#: ../../whitepaper/technical_path.rst:134
+msgid "`Transmission Control Protocol - WikiPedia(English)`_"
+msgstr "`维基百科：传输控制协议（英文）`_"
+
+#: ../../whitepaper/technical_path.rst:135
+msgid "`Transmission Control Protocol - WikiPedia(Chinese)`_"
+msgstr "`维基百科：传输控制协议（中文）`_"
+
+#: ../../whitepaper/technical_path.rst:143
+msgid "AES:"
+msgstr "AES:"
+
+#: ../../whitepaper/technical_path.rst:142
+msgid "`Advanced Encryption Standard - WikiPedia(English)`_"
+msgstr "`维基百科：高级加密标准（英文）`_"
+
+#: ../../whitepaper/technical_path.rst:143
+msgid "`Advanced Encryption Standard - WikiPedia(Chinese)`_"
+msgstr "`维基百科：高级加密标准（中文）`_"
+
+#: ../../whitepaper/technical_path.rst:151
+msgid "HTTPS:"
+msgstr "HTTPS:"
+
+#: ../../whitepaper/technical_path.rst:150
+msgid "`HTTPS - WikiPedia(English)`_"
+msgstr "`维基百科：超文本传输安全协议（英文）`_"
+
+#: ../../whitepaper/technical_path.rst:151
+msgid "`HTTPS - WikiPedia(Chinese)`_"
+msgstr "`维基百科：超文本传输安全协议（中文）`_"
+
+#: ../../whitepaper/technical_path.rst:159
+msgid "Deep Packet Inspection:"
+msgstr "Deep Packet Inspection:"
+
+#: ../../whitepaper/technical_path.rst:158
+msgid "`Deep Packet Inspection - WikiPedia(English)`_"
+msgstr "`维基百科：深度包检测（英文）`_"
+
+#: ../../whitepaper/technical_path.rst:159
+msgid "`Deep Packet Inspection - WikiPedia(Chinese)`_"
+msgstr "`维基百科：深度包检测（中文）`_"
+
+#: ../../whitepaper/technical_path.rst:167
+msgid "vnTUNNEL, Dynamic encrypted tunnel"
+msgstr "vnTUNNEL，动态加密隧道"
+
+#: ../../whitepaper/technical_path.rst:169
+msgid ""
+"Based on the mature OpenVPN, we add the obfuscation feature like "
+"Shadowsocks(r), and develop a kind of proprietary protocol of continuous "
+"connection, which can use both UDP and TCP mode, dynamic certificate "
+"encryption. When the bandwidth condition of service node is good, shorter "
+"delays and higher response efficiencies can be achieved."
+msgstr ""
+"在成熟的 OpenVPN 基础上，加入了类似 Shadowsocks(r) 的混淆特性，开发出来的一种持续连接的专有协议，能同时使用 UDP 和 TCP"
+" 两种模式，动态证书加密，在服务节点带宽条件良好的情况下，可以实现更短的延迟，更高的响应效率。"
+
+#: ../../whitepaper/technical_path.rst:179
+msgid "Tunneling Protocol:"
+msgstr "Tunneling Protocol:"
+
+#: ../../whitepaper/technical_path.rst:178
+msgid "`Tunneling Protocol - WikiPedia(English)`_"
+msgstr "`维基百科：隧道协议（英文）`_"
+
+#: ../../whitepaper/technical_path.rst:179
+msgid "`Tunneling Protocol - WikiPedia(Chinese)`_"
+msgstr "`维基百科：隧道协议（中文）`_"
+
+#: ../../whitepaper/technical_path.rst:187
+msgid "OpenVPN:"
+msgstr "OpenVPN:"
+
+#: ../../whitepaper/technical_path.rst:186
+msgid "`OpenVPN - WikiPedia(English)`_"
+msgstr "`维基百科：OpenVPN（英文）`_"
+
+#: ../../whitepaper/technical_path.rst:187
+msgid "`OpenVPN - WikiPedia(Chinese)`_"
+msgstr "`维基百科：OpenVPN（中文）`_"
+
+#: ../../whitepaper/technical_path.rst:195
+msgid "Shadowsocks:"
+msgstr "Shadowsocks:"
+
+#: ../../whitepaper/technical_path.rst:194
+msgid "`Shadowsocks - WikiPedia(English)`_"
+msgstr "`维基百科：Shadowsocks（英文）`_"
+
+#: ../../whitepaper/technical_path.rst:195
+msgid "`Shadowsocks - WikiPedia(Chinese)`_"
+msgstr "`维基百科：Shadowsocks（中文）`_"
+
+#: ../../whitepaper/technical_path.rst:203
+msgid "UDP:"
+msgstr "UDP:"
+
+#: ../../whitepaper/technical_path.rst:202
+msgid "`User Datagram Protocol - WikiPedia(English)`_"
+msgstr "`维基百科：用户数据报协议（英文）`_"
+
+#: ../../whitepaper/technical_path.rst:203
+msgid "`User Datagram Protocol - WikiPedia(Chinese)`_"
+msgstr "`维基百科：用户数据报协议（中文）`_"
+
+#: ../../whitepaper/technical_path.rst:211
+msgid "vnDNS, Non-pollution distributed domain name service"
+msgstr "vnDNS，无污染的分布式 DNS 域名解析服务"
+
+#: ../../whitepaper/technical_path.rst:213
+msgid ""
+"Although some international companies or organizations can provide clean DNS"
+" resolution services (such as IBM, Google, CloudFlare, etc.). Users still "
+"have the possibility of failing to obtain the correct resolution results, "
+"because communication packets may still be intercepted and tampered with by "
+"the ISP"
+msgstr ""
+"尽管一些国际化的公司或组织可以提供干净的 DNS 解析服务（如 IBM、Google、CloudFlare 等），但由于通信数据包依然可能会被用户所在 "
+"ISP 拦截并篡改，用户在使用的过程中依然存在不能获得正确解析结果的可能性。"
+
+#: ../../whitepaper/technical_path.rst:215
+msgid ""
+"Based on distributed network technology, Distributed Domain Name Service is "
+"implemented. You are protected from DNS cache pollution."
+msgstr ""
+"vnDNS 在分布式网络技术的基础上，可实现分布式的域名解析服务 Distributed Domain Name Server，从而使用户免 于遭受 "
+"DNS 污染（DNS cache pollution）"
+
+#: ../../whitepaper/technical_path.rst:217
+msgid ""
+"In the initial implementation of vnDNS, the node agent parsing in trusted "
+"area will be the main way to transmit the communication in the network "
+"through the dynamic encryption tunnel, and the data will be trusted. Will no"
+" longer be hijacked interception and pollution, the later development will "
+"be upgraded to a fully independent distributed DNS function of the service "
+"application"
+msgstr ""
+"初期的 vnDNS 实现方案将以可信区域的节点代理解析为主（ VISION "
+"网络内通信均经过动态加密隧道传输，数据可信，不会再被劫持拦截和污染），后期将发展升级成为一个具有完整独立 DNS 功能的服务应用。"
+
+#: ../../whitepaper/technical_path.rst:222
+msgid "DNS:"
+msgstr "DNS:"
+
+#: ../../whitepaper/technical_path.rst:221
+msgid "`Domain Name System - WikiPedia(English)`_"
+msgstr "`维基百科：域名系统（英文）`_"
+
+#: ../../whitepaper/technical_path.rst:222
+msgid "`Domain Name System - WikiPedia(Chinese)`_"
+msgstr "`维基百科：域名系统（中文）`_"
+
+#: ../../whitepaper/technical_path.rst:229
+msgid "DNS pollution:"
+msgstr "DNS pollution:"
+
+#: ../../whitepaper/technical_path.rst:229
+msgid "`DNS pollution - WikiPedia(Chinese)`_"
+msgstr "`维基百科：域名服务器缓存污染（中文）`_"
+
+#: ../../whitepaper/technical_path.rst:236
+msgid "Google Public DNS:"
+msgstr "Google Public DNS:"
+
+#: ../../whitepaper/technical_path.rst:235
+msgid "`Google Public DNS - WikiPedia(English)`_"
+msgstr "`维基百科：Google Public DNS（英文）`_"
+
+#: ../../whitepaper/technical_path.rst:236
+msgid "`Google Public DNS - WikiPedia(Chinese)`_"
+msgstr "`维基百科：Google Public DNS（中文）`_"
+
+#: ../../whitepaper/technical_path.rst:244
+msgid "DDoS defense which is derived from vnDNS"
+msgstr "由 vnDNS 衍生的 DDoS Attack Protection 阻断服务攻击防护服务"
+
+#: ../../whitepaper/technical_path.rst:246
+msgid ""
+"The completely free distributed vnDNS resolution service can also be "
+"combined with reverse proxy technology, with the help of the huge VISION "
+"user base and the number of nodes, VISION could protect website from DDoS "
+"attacks. The website pays :ref:`voken`, and the participating nodes get "
+"Vokens as revenue."
+msgstr ""
+"完全自由分布化的 vnDNS 解析服务还可以再结合反向代理技术，借助庞大的 VISION 用户基础和节点数量帮助需要受保护的网站有偿地防护 DDoS "
+"分布式阻断服务攻击 Distributed Denial-of-Service attack，受保护网站支付 :ref:`voken` "
+"，而参与服务的节点获得 Voken 。"
+
+#: ../../whitepaper/technical_path.rst:252
+msgid ""
+"Vision Network users can not only contribute to network security protection,"
+" but also increase :ref:`voken` revenue."
+msgstr ""
+"运行 VISION 节点的用户，将再增加一个选择：不但有机会为网络安全保护贡献一份力量，同时又多了一个增加 :ref:`voken` 收益方式。"
+
+#: ../../whitepaper/technical_path.rst:257
+msgid "DDoS:"
+msgstr "DDoS:"
+
+#: ../../whitepaper/technical_path.rst:256
+msgid "`Denial-of-service attack - WikiPedia(English)`_"
+msgstr "`维基百科：阻断服务攻击（英文）`_"
+
+#: ../../whitepaper/technical_path.rst:257
+msgid "`Denial-of-service attack - WikiPedia(Chinese)`_"
+msgstr "`维基百科：阻断服务攻击（中文）`_"
+
+#: ../../whitepaper/technical_path.rst:265
+msgid ""
+"vnPAC Smart routing Automatic judging and updating based on ASN in ISP "
+"region"
+msgstr "vnPAC 智能分流机制，基于 ISP 区域 ASN 的自动判断、自动更新"
+
+#: ../../whitepaper/technical_path.rst:267
+msgid "PAC, Proxy auto-config"
+msgstr "代理自动配置技术 Proxy auto-config 简称为 PAC。"
+
+#: ../../whitepaper/technical_path.rst:269
+msgid ""
+"vnVPN does not set a centralized PAC file, it will automatically identify "
+"the user's ISP's system number - ASN, automatically determine whether the "
+"connection is unblocked, automatically determine whether other nodes in the "
+"ASN area are unblocked, automatically update the results with the proxy "
+"rules, and perform a smart routing (only when the proxy is necessary)."
+msgstr ""
+"vnVPN 并不设置中心化的 PAC 文件存储，vnPAC 将自动识别用户所在 ISP的系统编号 ASN，自动判断连接是否畅通、自动判断其它 ASN "
+"区域的节点是否畅通、自动更新结果与代理规则、智能执行分流（不能直达的流量才自动使用节点代理）。"
+
+#: ../../whitepaper/technical_path.rst:271
+msgid ""
+"Ordinary users can use the network services without any complicated manual "
+"configuration and only need to keep the vnVPN program running in the "
+"background."
+msgstr "普通用户不需要进行复杂的手动配置、只需要保持 vnVPN 程序在后台运行，就可以无障碍地、直接顺畅地使用网络服务。"
+
+#: ../../whitepaper/technical_path.rst:276
+msgid "PAC:"
+msgstr "PAC:"
+
+#: ../../whitepaper/technical_path.rst:275
+msgid "`Proxy auto-config - WikiPedia(English)`_"
+msgstr "`维基百科：代理自动配置（英文）`_"
+
+#: ../../whitepaper/technical_path.rst:276
+msgid "`Proxy auto-config - WikiPedia(Chinese)`_"
+msgstr "`维基百科：代理自动配置（中文）`_"
+
+#: ../../whitepaper/technical_path.rst:284
+msgid "ASN:"
+msgstr "ASN:"
+
+#: ../../whitepaper/technical_path.rst:283
+msgid "`Autonomous system (Internet) - WikiPedia(English)`_"
+msgstr "`维基百科：自治系统（英文）`_"
+
+#: ../../whitepaper/technical_path.rst:284
+msgid "`Autonomous system (Internet) - WikiPedia(Chinese)`_"
+msgstr "`维基百科：自治系统（中文）`_"
+
+#: ../../whitepaper/technical_path.rst:292
+msgid "ASN Query:"
+msgstr "ASN 查询："
+
+#: ../../whitepaper/technical_path.rst:291
+msgid "`ASN Lookup & Information on ultratools.com`_"
+msgstr "`ASN Lookup & Information on ultratools.com`_"
+
+#: ../../whitepaper/technical_path.rst:292
+msgid "`en.mk/asn`_"
+msgstr "`en.mk/asn`_"
+
+#: ../../whitepaper/technical_path.rst:300
+msgid "vnCDN"
+msgstr "vnCDN 去中心化的内容加速分发服务"
+
+#: ../../whitepaper/technical_path.rst:302
+msgid ""
+"A brief description of vnCDN has been provided in the **Application "
+"description and economic model** section of the previous section. The "
+"traditional CDN technology is so mature that the benefits of universal "
+"participation, efficiency improvement, cost reduction, and service "
+"transparency brought about by the integration of blockchain and token are "
+"even more obvious."
+msgstr ""
+"前文“应用说明与经济模型”板块已有对 vnCDN 的简要介绍。传统的 CDN 技术（ Content Delivery Network 或 "
+"Content Distribution Network ）已经如此成熟，融入区块链和 Token "
+"后带来的全民参与、效率提升、成本降低、服务透明等好处更是显而易见。"
+
+#: ../../whitepaper/technical_path.rst:304
+msgid ""
+"We won't waste too many repetitions in this article. And only attach CDN "
+"terms on Wikipedia for reference:"
+msgstr "我们并不在本文中耗费篇章做过多的重复说明，这里仅将维基百科上 CDN 的中英文词条附上，以供参考。"
+
+#: ../../whitepaper/technical_path.rst:306
+msgid "`Content delivery network - WikiPedia(English)`_"
+msgstr "`维基百科：内容传递网络（英文）`_"
+
+#: ../../whitepaper/technical_path.rst:307
+msgid "`Content delivery network - WikiPedia(Chinese)`_"
+msgstr "`维基百科：内容传递网络（中文）`_"

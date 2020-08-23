@@ -1,0 +1,164 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2019, Vision Network Project
+# This file is distributed under the same license as the vision.network package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# VNET Michael <michael@vision.network>, 2019
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vision.network latest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-09-07 03:57+0800\n"
+"PO-Revision-Date: 2019-08-25 12:40+0000\n"
+"Last-Translator: VNET Michael <michael@vision.network>, 2019\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/voken/teams/95092/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../guide/how_to_join_the_whitelist.rst:4
+msgid "How to join the whitelist"
+msgstr "如何加入白名单"
+
+#: ../../guide/how_to_join_the_whitelist.rst:6
+msgid ""
+"Is there a friend told you about Vision Network, :ref:`voken`, and "
+":ref:`voken2_sale`? Congratulations!! Ask him for a **whitelisted address**."
+msgstr ""
+"是否有朋友向你介绍了远景网络，:ref:`voken` 和 :ref:`voken2_sale` 的消息呢？恭喜你！！直接向他索要一个 "
+"``白名单地址`` 吧。"
+
+#: ../../guide/how_to_join_the_whitelist.rst:8
+msgid ""
+"Use your ETH wallet, send **1,001 Voken2.0** to the address which is "
+"whitelisted already."
+msgstr "使用你的 ETH 钱包，发送 **1,001 Voken2.0** 到那个已在白名单列表中的地址即可。"
+
+#: ../../guide/how_to_join_the_whitelist.rst:9
+msgid "You will receive **1 Voken2.0** back, as a success signal."
+msgstr "你将收到 **1 Voken2.0** 退回，这是一个成功信号。"
+
+#: ../../guide/how_to_join_the_whitelist.rst:10
+msgid "Finished. Your wallet address has already whitelisted."
+msgstr "完成了。你的钱包地址已经成功注册。"
+
+#: ../../guide/how_to_join_the_whitelist.rst:15
+msgid ""
+"Set ``gas limit`` to ``600,000`` or more, the rest will be returned "
+"automatically."
+msgstr "请将 ``gas limit`` 设置为 ``600,000`` 或更多，剩余部分将自动退回。"
+
+#: ../../guide/how_to_join_the_whitelist.rst:18
+msgid "Related link: :ref:`gas`"
+msgstr "相关链接： :ref:`gas`"
+
+#: ../../guide/how_to_join_the_whitelist.rst:24
+msgid "FAQ about whitelist"
+msgstr "白名单相关的常见问题"
+
+#: ../../guide/how_to_join_the_whitelist.rst:78
+msgid ""
+"How can I check whether a wallet address is whitelisted， and its referral "
+"count?"
+msgstr "我怎样可以检查一个地址是否已列入白名单，和该地址的推荐数？"
+
+#: ../../guide/how_to_join_the_whitelist.rst:0
+msgid ":ref:`query_voken` on Etherscan.io:"
+msgstr "通过 Etherscan.io :ref:`query_voken` ："
+
+#: ../../guide/how_to_join_the_whitelist.rst:0
+msgid ""
+"``https://etherscan.io/address/0xfd1B721a7dD77845778806e360B99f2694E328a1#readContract``"
+msgstr ""
+"``https://etherscan.io/address/0xfd1B721a7dD77845778806e360B99f2694E328a1#readContract``"
+
+#: ../../guide/how_to_join_the_whitelist.rst:0
+msgid "**Contract** => **Read Contract**:"
+msgstr "**Contract 合约** => **Read Contract 读取合约** ："
+
+#: ../../guide/how_to_join_the_whitelist.rst:32
+msgid "Function #1: **queryAccount**"
+msgstr "第 #1 个功能： **queryAccount**"
+
+#: ../../guide/how_to_join_the_whitelist.rst:41
+msgid "Enter an ETH wallet address, and press **Query**, then:"
+msgstr "输入一个以太坊钱包地址，并点击 `Query` 查询，然后："
+
+#: ../../guide/how_to_join_the_whitelist.rst:50
+msgid "Let's focus on the returned values:"
+msgstr "我们关注返回值："
+
+#: ../../guide/how_to_join_the_whitelist.rst:64
+msgid "whitelisted"
+msgstr "whitelisted"
+
+#: ../../guide/how_to_join_the_whitelist.rst:63
+msgid ""
+"If it returns ``true``, means the address is already whitelisted, ``false`` "
+"means no."
+msgstr "如果返回 ``true`` ，则说明此地址已经列入白名单，``false`` 是没有。"
+
+#: ../../guide/how_to_join_the_whitelist.rst:68
+msgid "whitelistReferralsCount"
+msgstr "whitelistReferralsCount"
+
+#: ../../guide/how_to_join_the_whitelist.rst:67
+msgid "The quantity of direct referrals."
+msgstr "直接引荐数量。"
+
+#: ../../guide/how_to_join_the_whitelist.rst:73
+msgid "balance"
+msgstr "balance"
+
+#: ../../guide/how_to_join_the_whitelist.rst:71
+msgid ""
+"Balance of Voken2.0, with 6 decimals. ``118448326`` means **118.448326 "
+"Voken2.0**."
+msgstr "Voken2.0 余额， ``118448326`` 是 **118.448326 Voken2.0** 。"
+
+#: ../../guide/how_to_join_the_whitelist.rst:76
+msgid "reserved"
+msgstr "reserved"
+
+#: ../../guide/how_to_join_the_whitelist.rst:76
+msgid ""
+"Reserved balance of Voken2.0, with 6 decimals. ``59224163`` means "
+"**59.224163 Voken2.0**."
+msgstr ""
+"保留的（锁定的） Voken2.0 余额，后 6 位为小数位。 ``59224163`` 是 **59.224163 Voken2.0** 。"
+
+#: ../../guide/how_to_join_the_whitelist.rst:86
+msgid "Where could I buy some Voken2.0?"
+msgstr "我可以在哪里买到一些 Voken2.0 ？"
+
+#: ../../guide/how_to_join_the_whitelist.rst:81
+msgid "There may be these ways:"
+msgstr "有以下几种方法："
+
+#: ../../guide/how_to_join_the_whitelist.rst:83
+msgid "Participate in :ref:`voken2_sale`, send ETH to buy."
+msgstr "参加 :ref:`voken2_sale` 使用 ETH 购买。"
+
+#: ../../guide/how_to_join_the_whitelist.rst:84
+msgid "Follow :ref:`get_1001voken2`."
+msgstr "按照 :ref:`get_1001voken2` 。"
+
+#: ../../guide/how_to_join_the_whitelist.rst:85
+msgid "Ask your friend to send you some."
+msgstr "请您的朋友转给你一些。"
+
+#: ../../guide/how_to_join_the_whitelist.rst:89
+msgid ""
+"After my address was whitelisted, what will happen if I send 1,001.0 "
+"Voken2.0 to my friend or others?"
+msgstr "如果我的地址已经列入白名单，再发送 1001.0 Voken2.0 给朋友或其它地址会发生什么？"
+
+#: ../../guide/how_to_join_the_whitelist.rst:89
+msgid ""
+"Just like normal transfer, whitelist registration couldn't be trigger twice."
+msgstr "就像普通转账一样，白名单注册不会被触发两次。"
