@@ -3,12 +3,11 @@
 Voken's pricing logic and early opportunities
 =============================================
 
-Just think about one question:
-
-| IF YOU HAVE A CHANCE, THAT
-| **YOU CAN PAY $1 FOR A $100 REAL CASH**,
-| FIRST COME FIRST SERVED,
-| **HOW MUCH DO YOU WANT**?
+.. Just think about one question:
+    | IF YOU HAVE A CHANCE, THAT
+    | **YOU CAN PAY $1 FOR A $100 REAL CASH**,
+    | FIRST COME FIRST SERVED,
+    | **HOW MUCH DO YOU WANT**?
 
 
 The first crypto-currency with clear usage value
@@ -75,14 +74,11 @@ GCP Google Cloud Platform:
 
 
 
-Voken price during the Public-Sale: $0.03377 - $0.121
------------------------------------------------------
-
-:ref:`incremental_voken_sales_price`
-
-Starting at **1 Voken2.0 = $0.03377**, until the price reaches **$0.121**.
-
-More details: :ref:`voken2_sale`
+.. Voken price during the Public-Sale: $0.03377 - $0.121
+    -----------------------------------------------------
+    :ref:`incremental_voken_sales_price`
+    Starting at **1 Voken2.0 = $0.03377**, until the price reaches **$0.121**.
+    More details: :ref:`voken2_sale`
 
 
 

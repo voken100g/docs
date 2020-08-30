@@ -73,40 +73,42 @@ more open, more equal, more stable, more efficient, safer and freer.
    :maxdepth: 1
    :caption: TOP
 
-   news/voken2
+   releases/susitna
+.. news/voken2
    policy/community_program
-   voken/voken_sale
+
+.. voken/voken_sale
    guide/voken_sale
    policy/voken_referral_program
    guide/how_to_join_the_whitelist
    guide/get_1001voken2
    guide/query_voken
    guide/query_public_sale
-   revision
 .. policy/voken_community_alliance_program
 
 
 
 .. _contracts:
 
-.. toctree::
+.. .toctree::
    :maxdepth: 1
    :caption: New Contracts on Ethereum
 
-   voken/voken_main_contract
+.. voken/voken_main_contract
    voken/voken_shareholders_contract
-   voken/voken_public_sale_contract
+
+.. voken/voken_public_sale_contract
    voken/get_1001voken_contract
 
 
 
 .. _reports:
 
-.. toctree::
+.. .toctree::
    :maxdepth: 1
    :caption: Reports
 
-   reports/20200228
+.. reports/20200228
    reports/20200126
    reports/20191220
    reports/20191109
@@ -123,12 +125,12 @@ more open, more equal, more stable, more efficient, safer and freer.
 
 .. _letters:
 
-.. toctree::
+.. .toctree::
    :maxdepth: 1
    :caption: Letters
 
-   letters/as_an_investor
-..   letters/join_the_revolution
+.. letters/as_an_investor
+.. letters/join_the_revolution
 
 
 .. _available-services:
@@ -137,7 +139,21 @@ more open, more equal, more stable, more efficient, safer and freer.
    :maxdepth: 1
    :caption: Available services
 
-   services/vision_connect
+   releases/susitna
+   releases/web_wallet_toolkit
+   releases/account_network
+   releases/proxy_container
+   releases/client_base
+
+.. _revision:
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Revision
+
+   revision
+
+.. services/vision_connect
    reports/vnvpn_alpha
    services/autossr
    guide/shadowrocket
@@ -150,14 +166,15 @@ more open, more equal, more stable, more efficient, safer and freer.
 
 .. _guide:
 
-.. toctree::
+.. .toctree::
    :maxdepth: 1
    :caption: Guides
 
-   guide/gas
+.. guide/gas
    guide/imtoken
    guide/metamask
-   guide/shadowrocket
+
+.. guide/shadowrocket
    guide/ssrr
    guide/shadowsocksr_win
    guide/shadowsocksr_mac
@@ -186,7 +203,7 @@ more open, more equal, more stable, more efficient, safer and freer.
 
 
 
-..   contracts/voken
+.. contracts/voken
    contracts/voken_sale
    contracts/voken_migration
    contracts/batch_transfer
@@ -209,11 +226,11 @@ more open, more equal, more stable, more efficient, safer and freer.
    :alt: shape_the_future.png
    :align: center
 
-.. toctree::
+.. .toctree::
    :maxdepth: 1
    :caption: Contribute
 
-   contributing/contribute
+.. contributing/contribute
    contributing/ex_plan
    contributing/chat
    contributing/donate
@@ -223,12 +240,12 @@ more open, more equal, more stable, more efficient, safer and freer.
 
 .. _policy:
 
-.. toctree::
+.. .toctree::
    :maxdepth: 1
    :caption: Policy
 
-   policy/voken_shareholders_program
-   policy/chatting_group
+.. policy/chatting_group
+.. policy/voken_shareholders_program
 .. policy/voken_community_alliance_program
 
 
